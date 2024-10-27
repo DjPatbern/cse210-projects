@@ -1,0 +1,4 @@
+550
+SimpleGoal|Call mom|Today|100|False
+EternalGoal|Read|Cse|50
+ChecklistGoal|Study bible|John|40|3|3|200|True
